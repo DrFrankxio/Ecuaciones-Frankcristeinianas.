@@ -6,4 +6,4 @@ Uso:
 
 2.- Ejecute el comando: `>pip install z3-solver`.
 
-3.- Ejecute el comando dentro del directorio: `python '.\BNNV5.py'` para ejecutar el archivo `BNNV5.py` de este repositorio.
+3.- Ejecute el comando dentro del directorio: `python '.\BNNV5.py'` para ejecutar el archivo `BNNV5.py` de este repositorio. Asegúrese q la ruta de la cmd es la misma q la de este archivo al ejecutar el comando.
