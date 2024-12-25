@@ -20,3 +20,6 @@ Cerebro pobre:
 
 
 
+Cerebro dotado y difuso:
+
+![image](https://github.com/user-attachments/assets/d51393f4-ca62-47e5-be51-49435eb5878b)
