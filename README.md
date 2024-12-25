@@ -16,7 +16,7 @@ Por supuesto, una imagen del último modelo de nuestro gestor de redes neuronale
 
 Cerebro pobre:
 
-![image](https://github.com/user-attachments/assets/a74c53d5-d05f-49bf-80fc-978ba599401a)
+![image](https://github.com/user-attachments/assets/caec9185-7a0a-4da3-a60c-aa28a60e256f)
 
 
 
