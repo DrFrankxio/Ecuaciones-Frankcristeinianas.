@@ -20,7 +20,7 @@ Cerebro pobre:
 
 
 
-Cerebro ligeramente por debajo de lo normal y difuso:
+Cerebro con la concentración neuronal de un perro y difuso:
 
 ![image](https://github.com/user-attachments/assets/d51393f4-ca62-47e5-be51-49435eb5878b)
 
