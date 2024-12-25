@@ -12,4 +12,4 @@ Uso:
 
 Por supuesto, una imagen del último modelo de nuestro gestor de redes neuronales binarias Frankcristeinianas:
 
-![image](https://github.com/user-attachments/assets/3525f183-851c-4f07-9a8e-52ea98401115)
+![image](https://github.com/user-attachments/assets/1ab1ab09-3522-4cc5-be12-b466a5a3f7b3)
