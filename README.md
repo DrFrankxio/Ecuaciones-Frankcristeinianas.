@@ -12,4 +12,11 @@ Uso:
 
 Por supuesto, una imagen del último modelo de nuestro gestor de redes neuronales binarias Frankcristeinianas:
 
-![image](https://github.com/user-attachments/assets/1ab1ab09-3522-4cc5-be12-b466a5a3f7b3)
+
+
+Cerebro pobre:
+
+![image](https://github.com/user-attachments/assets/a74c53d5-d05f-49bf-80fc-978ba599401a)
+
+
+
