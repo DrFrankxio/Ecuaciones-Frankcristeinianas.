@@ -20,6 +20,12 @@ Cerebro pobre:
 
 
 
-Cerebro dotado y difuso:
+Cerebro ligeramente por debajo de lo normal y difuso:
 
 ![image](https://github.com/user-attachments/assets/d51393f4-ca62-47e5-be51-49435eb5878b)
+
+
+
+Cerebro dotado y muy difuso:
+
+![image](https://github.com/user-attachments/assets/e5ef8f17-c634-42f7-ad8d-1d35e94e5710)
