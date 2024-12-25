@@ -29,3 +29,7 @@ Cerebro con la concentración neuronal de un perro y difuso:
 Cerebro dotado y muy difuso:
 
 ![image](https://github.com/user-attachments/assets/e5ef8f17-c634-42f7-ad8d-1d35e94e5710)
+
+Cerebro superdotado y sumamente difuso:
+
+![image](https://github.com/user-attachments/assets/83a91e7e-a429-4eba-8327-b5b39040d750)
