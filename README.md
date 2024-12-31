@@ -20,7 +20,7 @@ Cerebro pobre:
 
 
 
-Cerebro con la concentración neuronal de un perro y difuso:
+Cerebro difuso:
 
 ![image](https://github.com/user-attachments/assets/d51393f4-ca62-47e5-be51-49435eb5878b)
 
